@@ -212,7 +212,7 @@ Mention all those who helped lift the project from its inception
 
 ## 📄 License
 
-This project is under the MIT license - see the file [LICENSE.md](https://github.com/KassioA/xlsBin2/LICENSE.md) for details.
+This project is under the MIT license - see the file [LICENSE.md](https://github.com/KassioA/xlsBin2/blob/master/LICENSE.md) for details.
 
 ## 🎁 Expressions of Gratitude
 
@@ -429,7 +429,7 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/KassioA/xlsBin2/LICENSE.md) para detalhes.
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/KassioA/xlsBin2/blob/master/LICENSE.md) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
